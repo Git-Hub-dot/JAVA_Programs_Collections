@@ -89,6 +89,12 @@ This section covers exam and interview–focused topics like exceptions, data st
    • P59: Singleton design pattern  
    • P60: Merge sort
 ***
+## 📷 <u>**Screenshots:**</u>
+**Power Calculation:**
+![alt text](https://github.com/Git-Hub-dot/JAVA_Programs_Collections/blob/aed956c0b882f7fdedcb3c8c6a16693b7814c9e0/First_Image.png)
+**Stack Implementation:**
+![alt text](https://github.com/Git-Hub-dot/JAVA_Programs_Collections/blob/aed956c0b882f7fdedcb3c8c6a16693b7814c9e0/Second_Image.png)
+***
 ## 🎯<u> **Why This Repo Matters?**</u>
 
 ### For Exams:  
