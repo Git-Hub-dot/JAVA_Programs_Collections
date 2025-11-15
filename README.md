@@ -1,4 +1,4 @@
-## 🚀<u> **Java Programs: Beginner to Advanced (P01–P60)**</u>
+## 🚀<u> **60 Most Important Java Programs: Beginner to Advanced (P01–P60)**</u>
 A complete collection of Java programs written by **SAROJ DHITAL**, covering everything from basic arithmetic to advanced OOP, data structures, recursion, algorithms, and file handling.
 If you're preparing for university exams, coding tests, or entry-level interviews, this repo gives you a solid and practical foundation. Each program is simple, direct, and focused on one concept at a time.
 ***
