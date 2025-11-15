@@ -91,18 +91,18 @@ This section covers exam and interview–focused topics like exceptions, data st
 ***
 ## 🎯<u> **Why This Repo Matters?**</u>
 
-### For Exams  
+### For Exams:  
 Many of these programs match typical university lab questions and viva topics. They’re clean, short, and easy to understand.
 
-### For Interviews  
+### For Interviews:  
 Most entry-level Java interviews test:  
-- loops  
-- conditionals  
-- arrays  
-- recursion  
+- Loops  
+- Conditionals  
+- Arrays  
+- Recursion  
 - OOP  
-- exceptions  
-- basic algorithms  
+- Exceptions  
+- Basic algorithms  
 
 This repo covers all of them in a structured way.
 ***
