@@ -5,19 +5,19 @@ If you're preparing for university exams, coding tests, or entry-level interview
 ## 🔑<u> **What’s Inside?**</u>
 This project is organized into **6 levels**, starting from the basics and moving toward algorithmic and OOP-heavy concepts. It’s structured for beginners who want clarity and for advanced learners who want quick revision.
 ***
-1. <u> **Basic Operations & Input/Output (P01–P10)**</u>  
+1. <u> **Basic Operations & Input/Output (P01–P10)**</u>
 These programs introduce arithmetic, data types, variables, and basic user input using `Scanner`.
 
-• P01: Arithmetic operations (fixed values)  
-• P02: Arithmetic operations (user input)  
-• P03: Area of a rectangle  
-• P04: Area of a circle using `Math.PI`  
-• P05: Simple and compound interest  
-• P06: Swap two variables  
-• P07: Volume of a cube  
-• P08: Average of three numbers  
-• P09: Fahrenheit to Celsius  
-• P10: Power of a number using `Math.pow()`
+   • P01: Arithmetic operations (fixed values)  
+   • P02: Arithmetic operations (user input)  
+   • P03: Area of a rectangle  
+   • P04: Area of a circle using `Math.PI`  
+   • P05: Simple and compound interest  
+   • P06: Swap two variables  
+   • P07: Volume of a cube  
+   • P08: Average of three numbers  
+   • P09: Fahrenheit to Celsius  
+   • P10: Power of a number using `Math.pow()`
 ***
 2. <u> **Conditionals & Control Flow (P11–P20)**</u>  
 These programs help you practice logical decision-making with `if`, `else-if`, and `switch`.
