@@ -107,7 +107,7 @@ Most entry-level Java interviews test:
 This repo covers all of them in a structured way.
 ***
 ## 👨‍💻 <u>**Author**</u>
-**Saroj Dhital** Computer Science Student & Web Developer
+**Saroj Dhital** Computer Science Student & Tech Inthusiast
 ***
 ## 🌟 <u>**Show Your Support**</u>
 If you like this project:
